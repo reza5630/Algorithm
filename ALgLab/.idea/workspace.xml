@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3308698b-3019-47c7-9578-2c560d917912" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WM7GdKecPk5kl81feZP5e6Gma0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Lab11" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\reza\IdeaProjects\ALgLab\src\Lab11" />
+      <recent name="C:\Users\reza\IdeaProjects\ALgLab\src\lab3\runtime" />
+      <recent name="C:\Users\reza\IdeaProjects\ALgLab\src\lab3" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Lab4" />
+      <recent name="lab3.sortroutines" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\reza\IdeaProjects\ALgLab\src\lab3\sortroutines" />
+      <recent name="C:\Users\reza\IdeaProjects\ALgLab" />
+      <recent name="C:\Users\reza\IdeaProjects\ALgLab\src\lab3" />
+      <recent name="C:\Users\reza\IdeaProjects\ALgLab\src\lab3\util" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Lab10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab10" />
+      <module name="ALgLab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab4" />
+      <module name="ALgLab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab11.Main" />
+      <module name="ALgLab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab3.sortroutines.MyBST" />
+      <module name="ALgLab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab3.runtime.SortTester" />
+      <module name="ALgLab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Lab10" />
+        <item itemvalue="Application.SortTester" />
+        <item itemvalue="Application.MyBST" />
+        <item itemvalue="Application.Lab4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#Notifications" timestamp="1579671975741">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1579671975741" />
+    <state x="361" y="70" key="#Plugins" timestamp="1579672008307">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Plugins/0.0.1536.824@0.0.1536.824" timestamp="1579672008307" />
+    <state x="899" y="181" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1579651208214">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="899" y="181" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1579651208214" />
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578948614275">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1578948614275" />
+    <state x="974" y="135" key="#com.intellij.ide.util.MemberChooser" timestamp="1579651215813">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="974" y="135" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1579651215813" />
+    <state x="498" y="200" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1578948610457">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="200" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1578948610457" />
+    <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580157467644">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1580157467644" />
+    <state x="524" y="116" key="#xdebugger.evaluate" timestamp="1580273794212">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="524" y="116" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1580273794212" />
+    <state width="418" height="466" key="DebuggerActiveHint" timestamp="1580274014056">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="418" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1580274014056" />
+    <state width="1493" height="221" key="GridCell.Tab.0.bottom" timestamp="1580371804777">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="221" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580371804777" />
+    <state width="1493" height="221" key="GridCell.Tab.0.center" timestamp="1580371804777">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="221" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580371804777" />
+    <state width="1493" height="221" key="GridCell.Tab.0.left" timestamp="1580371804777">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="221" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580371804777" />
+    <state width="1493" height="221" key="GridCell.Tab.0.right" timestamp="1580371804777">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="221" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580371804777" />
+    <state width="599" height="406" key="GridCell.Tab.1.bottom" timestamp="1580365416109">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="599" height="406" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580365416109" />
+    <state width="599" height="406" key="GridCell.Tab.1.center" timestamp="1580365416109">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="599" height="406" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1580365416109" />
+    <state width="599" height="406" key="GridCell.Tab.1.left" timestamp="1580365416109">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="599" height="406" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1580365416109" />
+    <state width="599" height="406" key="GridCell.Tab.1.right" timestamp="1580365416109">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="599" height="406" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1580365416109" />
+    <state x="277" y="58" key="SettingsEditor" timestamp="1579313309291">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1579313309291" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1579324355228">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1579324355228" />
+    <state x="499" y="193" key="extract.method.dialog" timestamp="1580280237428">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="193" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1580280237428" />
+    <state x="463" y="153" width="611" height="536" key="find.popup" timestamp="1580335013579">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="463" y="153" width="611" height="536" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1580335013579" />
+    <state x="418" y="39" key="new project wizard" timestamp="1580327516914">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="418" y="39" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1580327516914" />
+    <state x="842" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1579671992427">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="842" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1579671992427" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lab2.java</url>
+          <line>155</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lab2.java</url>
+          <line>142</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lab3/sortroutines/MergeSortPlus.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lab11/HasCycle.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="theArray.length" language="JAVA" />
+        <watch expression="distance[i - 1][j - 1]" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
